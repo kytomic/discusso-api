@@ -1,0 +1,32 @@
+{
+  "0010_USER_NOT_FOUND": {
+    "code": "0010_USER_NOT_FOUND",
+    "message": "User is not found.",
+    "status": 404
+  },
+  "0011_INVALID_LOGIN_CREDENTIALS": {
+    "code": "0011_INVALID_LOGIN_CREDENTIALS",
+    "message": "Either username or password is incorrect.",
+    "status": 400
+  },
+  "0012_USERNAME_ALREADY_EXISTS": {
+    "code": "0012_USERNAME_ALREADY_EXISTS",
+    "message": "User with this username already exists.",
+    "status": 400
+  },
+  "0013_INVALID_REFRESH_TOKEN": {
+    "code": "0013_INVALID_REFRESH_TOKEN",
+    "message": "The refresh token is invalid or has expired.",
+    "status": 400
+  },
+  "0014_EXISTING_FRIEND_INVITATION": {
+    "code": "0014_EXISTING_FRIEND_INVITATION",
+    "message": "The friend invitation exists already.",
+    "status": 400
+  },
+  "0015_EXISTING_FRIEND_INVITATION": {
+    "code": "0014_EXISTING_FRIEND_INVITATION",
+    "message": "The friend invitation exists already.",
+    "status": 400
+  }
+}
