@@ -1,10 +1,11 @@
 Discusso is a chat application implemented in Java Spring Boot and React.JS (TypeScript).
 
 **Project Overview**
-Login System: Utilizes JWT for secure authentication.
-UI Components: Material UI.
-Database: PostgreSQL.
-Chat System: STOMP WebSocket.
+
+- Login System:  Utilizes JWT for secure authentication.
+- UI Components:  Material UI.
+- Database:  PostgreSQL.
+- Chat System:  STOMP WebSocket.
 
 Frontend:
 https://github.com/kytomic/discusso-ui
